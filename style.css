@@ -1,0 +1,252 @@
+body {
+    background: #a6a6a6;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.row1col {
+    padding: 25px 0;
+}
+
+.row1col span {
+    color: #7bc142;
+}
+
+.row1col2 {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a6a6a6+0,f1f1f1+100 */
+    background: linear-gradient(to bottom, #a6a6a6 0%, #f1f1f1 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.row1col2 a {
+    transition: all linear 200ms;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #000;
+    padding: 0px 0.3rem;
+    font-weight: normal;
+}
+
+.row1col2 a:hover {
+    color: #7bc142;
+}
+
+.row1col2 input {
+    border: 1px solid #98abbb;
+}
+
+.row1col2 i {
+    color: #fff;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#181818+0,565656+100 */
+    background: linear-gradient(to bottom, #181818 0%, #565656 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.cus-nav.navbar-expand-lg {
+    padding: 20px 0;
+}
+
+.navbar-expand-lg .navbar-nav {
+    background: #f4f4f4;
+}
+.navbar-expand-lg .cus-nav .navbar-nav .nav-item
+{
+
+}
+
+
+.nav-link.disabled,
+.nav-link:disabled {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b9ce44+0,8eb92a+49,72aa00+50,8cbf10+100 */
+    background: linear-gradient(to bottom, #b9ce44 0%, #8eb92a 49%, #72aa00 50%, #8cbf10 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    margin: 0 0.5rem;
+
+}
+
+.cus-nav2 .navbar-nav .nav-link {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b9ce44+0,8eb92a+49,72aa00+50,8cbf10+100 */
+    background: linear-gradient(to bottom, #b9ce44 0%, #8eb92a 49%, #72aa00 50%, #8cbf10 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    padding: 20px 0.5rem;
+    margin: 0 1rem;
+    color: #fff;
+    transition: all linear 1s;
+    border-radius: 5px;
+}
+
+.cus-nav2 .navbar-nav .nav-link:hover {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4c4c4c+1,2d2d2d+49,000000+58,121212+100 */
+    background: linear-gradient(to bottom, #4c4c4c 1%, #2d2d2d 49%, #000000 58%, #121212 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.header {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#102d3d+1,06131b+100 */
+    background: linear-gradient(to bottom, #102d3d 1%, #06131b 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    color: #fff;
+    padding: 0 1rem;
+}
+
+.header h2 {
+    display: inline-block;
+    color: #fbb512;
+    font-size: 3rem;
+    padding-top: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fad67e+2,ffbc2d+100 */
+    background: linear-gradient(to bottom, #fad67e 2%, #ffbc2d 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    display: inline-block;
+    color: #103045;
+}
+
+.font-col i {
+    font-size: 15rem;
+    text-align: center;
+    padding: 10px 0;
+    color: #06151d;
+}
+
+.row3-col2 h2 {
+    color: #94bc2e;
+    font-size: 1.5rem;
+    margin: 25px 0 10px 0;
+}
+
+.row3-col {
+    background: #ececec;
+}
+
+.row3-col h2,
+.row3-col h3 {
+    color: #000;
+    border-bottom: 1px solid #c4c4c4;
+
+}
+
+.row3-col ul {
+    display: grid;
+    width: 100%
+}
+
+.row3-col li {
+    padding: 8px 0;
+    border-bottom: 1px solid #c4c4c4;
+}
+
+.row3-col i {
+    margin-right: 0.5rem;
+    color: #72aa00;
+}
+
+.row3-col a {
+    text-decoration: none;
+    color: #000;
+}
+
+.anc {
+    background: #8eb92a;
+}
+
+.head {
+    color: #72aa00;
+    font-size: 1.4rem;
+}
+
+.row3-col a:hover {
+    color: #72aa00;
+}
+.row3-col .card,
+.row3-col .col
+{
+    background: #ececec;
+    border: none;
+}
+
+.hr1 {
+    width: 100%;
+    border: 1px solid #c4c4c4;
+
+}
+
+.col-box {
+    display: inline-block;
+}
+
+.col-box h2,
+.col-box2 h2 {
+    color: #000;
+    font-size: 1.3rem;
+    font-weight: normal;
+    margin: 16px 0 0 0;
+    padding: 0 0.5rem;
+}
+
+.col-box p,
+.col-box2 p {
+    color: #72aa00;
+    font-size: 1.2rem;
+    padding: 0 0.5rem;
+}
+
+.col {
+    padding: 6px 0;
+    background: #ececec;
+    margin-bottom: 20px;
+}
+
+.col h2 {
+    color: #72aa00;
+}
+
+.col-box2 {
+    background: #f1f1f1;
+    padding: 0px;
+    margin: 20px 0;
+    border: 1px solid #c8c7c7;
+}
+
+.footer {
+    padding: 20px 0;
+    background: #fbfbfb;
+}
+
+.footercol1 h2,
+.footercol2 h3,
+.footercol3 h4, 
+.footercol4 h5 {
+    font-size: 1rem;
+    color: #717171;
+}
+
+.footercol1 p
+{
+font-size: 0.9rem;
+color:#565656;
+text-align: justify;
+}
+
+.footercol2 li,
+.footercol3 li,
+.footercol4 li {
+    padding: 7px 0;
+}
+
+.footercol2 a,
+.footercol3 a,
+.footercol4 a {
+    color: #717171;
+    text-decoration: none;
+}
